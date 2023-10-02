@@ -1,0 +1,6 @@
+/home/khanhb/Downloads/cpptraining/session_01/session_01_src/TRAINING_SOURCES/build/CMakeFiles/edit_cache.dir
+/home/khanhb/Downloads/cpptraining/session_01/session_01_src/TRAINING_SOURCES/build/CMakeFiles/rebuild_cache.dir
+/home/khanhb/Downloads/cpptraining/session_01/session_01_src/TRAINING_SOURCES/build/src/cmake_multiple_sources/CMakeFiles/PngppImage.dir
+/home/khanhb/Downloads/cpptraining/session_01/session_01_src/TRAINING_SOURCES/build/src/cmake_multiple_sources/CMakeFiles/image.dir
+/home/khanhb/Downloads/cpptraining/session_01/session_01_src/TRAINING_SOURCES/build/src/cmake_multiple_sources/CMakeFiles/edit_cache.dir
+/home/khanhb/Downloads/cpptraining/session_01/session_01_src/TRAINING_SOURCES/build/src/cmake_multiple_sources/CMakeFiles/rebuild_cache.dir
